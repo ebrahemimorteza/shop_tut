@@ -1,2 +1,2 @@
 # shop_tut
-this is website reaact and java ee
+this is website react and java ee
